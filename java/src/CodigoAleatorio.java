@@ -53,7 +53,7 @@ public class CodigoAleatorio extends JFrame {
 		
 		
 		///Caracteres que iram compor o codigo, podendo deixar com apenas numeros,letras ou simbolos
-		String caracteres = "ABCDEFGHIJKLMNOPQRSTUVYWXZ0123456789@#$%&?";
+		String caracteres = "ABCDEFGHIJKLMNOPQRSTUVYWXZ0123456789@#$%&";
 
 		Random random = new Random();
 		Random quantidade = new Random();
